@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of the company web host
+host: https://www.xscapephotonics.com
+# No /.well-known/ discovery documents are published (all probes 404).
+# Probe results recorded for idempotency; no WellKnown pointer is wired in
+# apis.yml because no catalog/document actually exists.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404

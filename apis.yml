@@ -1,4 +1,16 @@
 aid: xscape-photonics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/xscape-photonics.png
 name: Xscape Photonics
 description: 'Xscape Photonics is a company surfaced as a portfolio company of addition and added to the
   API Evangelist network as a stub for enrichment. Sector: ai-infrastructure. This profile is a lead awaiting
@@ -23,5 +35,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/xscape-photonics-trust-center.yml
+- type: DomainSecurity
+  url: security/xscape-photonics-domain-security.yml
 - type: Website
   url: https://www.xscapephotonics.com

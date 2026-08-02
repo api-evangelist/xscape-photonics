@@ -1,0 +1,24 @@
+# Xscape Photonics
+
+> Xscape Photonics is a Columbia University silicon-photonics spinout building multicolor laser platforms (FalconX ELSFP laser modules and the EagleX laser chiplet evaluation kit) that relieve GPU-to-GPU and GPU-to-memory bandwidth bottlenecks in AI data center fabrics. The company publishes no public API, SDK, or developer program; this profile documents its web and trust surface for the API Evangelist network.
+
+Backed by NVIDIA, Cisco, Fathom Fund, IAG Capital Partners, and others, with ARPA-E and U.S. Department of Energy SCALEUP program support. Offices in Fort Lee, NJ and Santa Clara, CA.
+
+## Company
+
+- [Website](https://www.xscapephotonics.com): Company homepage
+- [Products](https://www.xscapephotonics.com/products): FalconX ELSFP laser module and EagleX laser chiplet evaluation kit
+- [Technology](https://www.xscapephotonics.com/technology): Multicolor silicon photonics platform for AI fabrics
+- [About Us](https://www.xscapephotonics.com/about-us): Founding team and mission
+- [News & Blog](https://www.xscapephotonics.com/xscape-news): Press, media coverage, and the Xscaping Limits blog series
+- [Contact](https://www.xscapephotonics.com/contact-us): Contact form
+
+## Trust
+
+- [Trust Center](https://trust.xscapephotonics.com/): Vanta-hosted trust center; ISO 27001
+- [Privacy Policy](https://www.xscapephotonics.com/privacy-policy)
+- [Terms of Service](https://www.xscapephotonics.com/terms-of-service)
+
+## APIs
+
+No public APIs are published by this provider.
